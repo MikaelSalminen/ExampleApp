@@ -1,0 +1,8 @@
+C:\bootcamp_examples\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe.config
+C:\bootcamp_examples\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe
+C:\bootcamp_examples\ExampleApp\ExampleApp\bin\Debug\ExampleApp.pdb
+C:\bootcamp_examples\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.AssemblyReference.cache
+C:\bootcamp_examples\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.SuggestedBindingRedirects.cache
+C:\bootcamp_examples\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.CoreCompileInputs.cache
+C:\bootcamp_examples\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
+C:\bootcamp_examples\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
